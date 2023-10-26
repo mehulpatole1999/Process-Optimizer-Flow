@@ -21,6 +21,7 @@ Table of Contents:
 5. Testing and Troubleshooting
 6. Conclusion
 
+
 1. Introduction:
 Power Automate is a powerful automation tool by Microsoft that enables you to create workflows to automate various tasks. In this guide, we will focus on creating a flow to automate the process of extracting zip files from a shared mailbox in Outlook and converting them into XLSX files, all while utilizing OneDrive for storage.
 
@@ -58,8 +59,8 @@ Power Automate is a powerful automation tool by Microsoft that enables you to cr
    - Configure it to create XLSX files in a different OneDrive folder.
 
 3.7. Post a message in a teams chat or channel:
--Add an action to post a message in team
-chat for final confirmation that our flow has ran successfully
+   -  Add an action to post a message in team
+      chat for final confirmation that our flow has ran successfully
 
 4. Testing and Troubleshooting:
    - Test the flow with sample emails and zip files.
