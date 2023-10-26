@@ -1,5 +1,6 @@
 # Process-Optimizer-Flow
 Create a Power Automate Flow to improve the process and save time.
+
 Title: Designing a Power Automate Flow to Extract and Convert Zip Files from Outlook to OneDrive
 
 Abstract:
@@ -16,8 +17,9 @@ Table of Contents:
    3.5. Converting Zip Files to XLSX
    3.6. Storing XLSX Files in OneDrive
    3.7. Post message in a teams chat or channel
-4. Testing and Troubleshooting
-5. Conclusion
+   
+5. Testing and Troubleshooting
+6. Conclusion
 
 1. Introduction:
 Power Automate is a powerful automation tool by Microsoft that enables you to create workflows to automate various tasks. In this guide, we will focus on creating a flow to automate the process of extracting zip files from a shared mailbox in Outlook and converting them into XLSX files, all while utilizing OneDrive for storage.
